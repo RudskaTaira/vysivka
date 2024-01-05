@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Trap
+  - Bread
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2127614047
+    locked: 0
+  - name: Trava3
+    uniqueID: 1032283793
+    locked: 0
+  - name: Trava2
+    uniqueID: 655833575
+    locked: 0
+  - name: Trava
+    uniqueID: 97213243
+    locked: 0
+  - name: Trees2
+    uniqueID: 2351998777
+    locked: 0
+  - name: Trees
+    uniqueID: 3381438819
+    locked: 0
+  - name: Saw
+    uniqueID: 2175114969
+    locked: 0
+  - name: Terrain
+    uniqueID: 1090479867
+    locked: 0
+  - name: Hvist
+    uniqueID: 3569352767
+    locked: 0
+  - name: Did
+    uniqueID: 3011756099
+    locked: 0
+  - name: Batya
+    uniqueID: 4177651783
+    locked: 0
